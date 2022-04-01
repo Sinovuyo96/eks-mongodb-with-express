@@ -8,7 +8,7 @@ Creating a deployment
 
 1. Express deployment running a single pod and one replica.
 - to scale run: kubectl edit deployment  <NameOfDeployment.yaml>.
-3. MongpBD deployment running a single pod.
+2. MongpBD deployment running a single pod.
 
 - kubectl apply -f <NameOfDeployment.yaml>
 
